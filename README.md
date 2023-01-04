@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sdaulibin&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sdaulibin&repo=convoychat" />
 </a>
 <!---
 sdaulibin/sdaulibin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
