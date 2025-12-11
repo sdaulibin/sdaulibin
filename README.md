@@ -1,6 +1,6 @@
 - 👋 Hi, I’m binginx
-- 👀 I’m interested in Java,Go
-- 🌱 I’m currently learning Go,Rust
+- 👀 I’m interested in Java,Go,Python
+- 🌱 I’m currently learning Go,Python
 
 <!---
 sdaulibin/sdaulibin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
